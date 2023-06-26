@@ -1,0 +1,4 @@
+In this code, the ContactBook class and the Contact class. The Ui_MainWindow class contains the PyQt5 code for the GUI.
+This includes code to create the GUI, and methods to add, delete, update, and search contacts in the contact book.
+
+
